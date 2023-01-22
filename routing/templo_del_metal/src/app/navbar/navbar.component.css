@@ -1,0 +1,13 @@
+nav {
+	background-color: #D21C13;
+	color: #D8EB49;
+}
+
+.container-fluid {
+	color: #D8EB49;
+}
+
+a { 
+	color: #fff;
+	/* color: #D8EB49; */
+}

@@ -1,0 +1,19 @@
+button {
+	background-color: #1A87EB;
+	color: #D8EB49;
+}
+
+div {
+	border:#D8EB49 5px inset;
+}
+
+.borderL {
+	background-color: #EB3B31;
+	width: 300px;
+	height: 300px;
+	border-radius: 25%;
+	border-color: #D8EB49;
+	border-style: solid;
+	border-width: 10px;
+
+}
